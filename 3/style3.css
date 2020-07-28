@@ -1,0 +1,36 @@
+.head_style {
+    border: 1px solid black; 
+    border-radius: 0 0 5px 5px; 
+    left: 5%; 
+    right: 5%; 
+    height: 15%; 
+    text-align: center;
+}
+
+.sidebar_style {
+    position: fixed; 
+    top: 20%; 
+    bottom: 20%; 
+    width: 10%; 
+    height: 600px; 
+    background-color: rgba(0, 0, 255, 0.5)
+}
+
+.centralblock_style {
+    top: 20%; 
+    bottom: 20%; 
+    left: 20%; 
+    width: 50%; 
+    position: fixed;
+}
+
+.footer_style {
+    border: 1px solid black; 
+    position: fixed; 
+    bottom: 0; 
+    border-radius: 5px 5px 0 0; 
+    right: 5%; 
+    left: 5%; 
+    height: 15px; 
+    text-align: center;
+}
